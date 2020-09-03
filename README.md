@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Joe Kim
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coregatekit&theme=dracula&layout=compact)](https://github.com/coregatekit/github-readme-stats)
+
+![coregatekit's github stats](https://github-readme-stats.vercel.app/api?username=coregatekit&show_icons=true&theme=dracula)
 
 <!--
 **coregatekit/coregatekit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
