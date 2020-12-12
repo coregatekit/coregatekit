@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Joe Kim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coregatekit&theme=dracula&layout=compact)](https://github.com/coregatekit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coregatekit&layout=compact)](https://github.com/coregatekit/github-readme-stats)
 
-![coregatekit's github stats](https://github-readme-stats.vercel.app/api?username=coregatekit&show_icons=true&theme=dracula)
+![coregatekit's github stats](https://github-readme-stats.vercel.app/api?username=coregatekit&show_icons=true)
 
 ### I develop with this languages and tools
 <p align="left">
